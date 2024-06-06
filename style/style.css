@@ -213,33 +213,12 @@ a:hover {
     background-color: darkslategray;
     color: #efefef;
     text-align: center;
-    height: 260px;
+    height: 60px;
 }
 
-.tea-icon {
-    padding-top: 20px;
-    padding-left: 400px;
-    float: left;
-    margin-top: 10px;
-    height: 200px;
-    width: 200px;
-}
-
-.quote {
-    font-size: 16px;
-    position: absolute;
-    padding-left: 60px;
-    padding-top: 20px;
-}
-.quote2{
-    font-size: 16px;
-    position: absolute;
-    padding-left: 750px;
-    padding-top: 20px;
-}
 .copyright p{
     position: absolute;
-    padding-top: 220px;
+    padding-top: 20px;
     padding-left: 600px;
     text-align: center;
 }
