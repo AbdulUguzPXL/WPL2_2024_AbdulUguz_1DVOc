@@ -122,6 +122,12 @@ body{
     padding-top: 100px;
 }
 
+.mijn-aandeel{
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
 
 .eindreflectie{
     max-width: 500px;
